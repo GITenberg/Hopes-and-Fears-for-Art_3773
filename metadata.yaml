@@ -1,0 +1,27 @@
+_repo: Hopes-and-Fears-for-Art_3773
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art'
+- !lcsh 'Arts and crafts movement'
+tableOfContents: The lesser arts -- The art of the people -- The beauty of life --
+  Making the best of it -- The prospects of architecture in civilization.
+title: Hopes and Fears for Art
+url: http://www.gutenberg.org/ebooks/3773
